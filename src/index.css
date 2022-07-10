@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.marker-drawer-time-btn {
+  box-shadow: unset !important;
+  height: fit-content;
+  text-transform: unset !important;
+  background-color: green !important;
+}
