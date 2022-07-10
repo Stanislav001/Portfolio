@@ -31,8 +31,7 @@ export default function NotFoundPage() {
                     className='marker-drawer-time-btn'
                     size="small"
                     onClick={goToHomePage}
-                >
-                    Back to home page</Button>
+                >Back to home page</Button>
             </CardActions>
         </Card>
     )
